@@ -19,7 +19,6 @@ module.exports = {
   rules: {
     "comma-dangle": ["error", "never"],
     "no-param-reassign": ["error", { "props": false }]
-"parser": "babel-eslint"
   },
 
 };
